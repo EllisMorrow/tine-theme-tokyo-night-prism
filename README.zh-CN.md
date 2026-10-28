@@ -8,6 +8,8 @@
 
 Tokyo Night Day 与 Night 相逢于同一款 Tine 主题：日间是清冷蓝灰，夜里沉入靛青城色，以明亮蓝色链接和沉静绿意作点缀。
 
+在 [Prism 主题画廊](https://github.com/martinkoutecky/tine/discussions/786)中，可以直观比较全部 29 个主题的浅色与深色效果。
+
 ### 深色模式
 
 ![Tokyo Night · Prism 深色模式实拍](docs/tokyo-night-dark.png)

@@ -15,6 +15,8 @@
 
 Tokyo Night Day and Night share one Tine theme: cool blue-gray light and a deep indigo city after dark, with clear blue links and quiet green accents.
 
+Explore the full [Prism theme gallery](https://github.com/martinkoutecky/tine/discussions/786) to compare all 29 themes in light and dark modes.
+
 ### Dark mode
 
 ![Tokyo Night · Prism in Tine dark mode](docs/tokyo-night-dark.png)
